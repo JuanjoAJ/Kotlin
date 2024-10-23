@@ -7,3 +7,5 @@ It consists of these blocks:
 - [T2 - **Control Structure**](https://github.com/JuanjoAJ/Kotlin/tree/main/02-Control%20Structure)
 - [T2.2 - **Exercise**](https://github.com/JuanjoAJ/Kotlin/tree/main/02.2-Exercises)
 - [T3 - **Function**](https://github.com/JuanjoAJ/Kotlin/tree/main/03%20-%20Function)
+- [T4 - **Arrays**](https://github.com/JuanjoAJ/Kotlin/tree/main/04%20-%20Arrays%20and%20Collections)
+- [**Call Exercise** (Practice in hieritance and class)](https://github.com/JuanjoAJ/Kotlin/tree/main/06%20-%20Llamadas%20Exercise)
