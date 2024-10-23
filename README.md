@@ -6,3 +6,4 @@ It consists of these blocks:
 - [T1 - **Variables**](https://github.com/JuanjoAJ/Kotlin/tree/main/01-Variables)
 - [T2 - **Control Structure**](https://github.com/JuanjoAJ/Kotlin/tree/main/02-Control%20Structure)
 - [T2.2 - **Exercise**](https://github.com/JuanjoAJ/Kotlin/tree/main/02.2-Exercises)
+- [T3 - **Function**](https://github.com/JuanjoAJ/Kotlin/tree/main/03%20-%20Function)
